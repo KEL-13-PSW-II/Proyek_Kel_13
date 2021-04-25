@@ -1,0 +1,66 @@
+* {
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 27px;
+}
+.nav-item {
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+#bg-navbar {
+    background: url(gambar/gambar.png); 
+    height: 100px;
+    background-position: center;
+}
+.nav-link:hover {
+    border-bottom: 5px solid white;
+    background-color: rgba(34, 29, 29, 0.548);
+}
+.carousel {
+    border-radius: 25px;
+    overflow: hidden;
+}
+#main {
+    padding-left: 30px;
+    padding-right: 30px;
+    text-transform: uppercase;
+}
+ul li .nav-link {
+    font-size: 20px;
+}
+.diskon {
+    font-weight: 200;
+    font-size: 100px;
+}
+.hero .tombol {
+    margin: auto;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.diskon {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.col-lg-5 {
+    margin-top: 65px;
+}
+.harga {
+    text-decoration: line-through;
+}
+.keterangan {
+    margin-top: 70px;
+}
+.tombol {
+    border-radius: 25px;
+    font-size: 25px;
+    width: 200px;
+    margin-top: 25px;
+}
+.diskon h3 {
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 50px;
+}
+.kata {
+    font-size: 25px;
+}
